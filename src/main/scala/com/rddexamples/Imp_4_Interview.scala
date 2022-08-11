@@ -67,7 +67,7 @@ object Imp_4_Interview {
     StructType(StructField("class",StringType,true),StructField("malecount",IntegerType,true),StructField("femalecount",IntegerType,true))
    gender.printSchema() */
 
-    var blanklines:Int =0
+   /* var blanklines:Int =0
     spark.sparkContext.textFile("D:\\Learnings\\Bigdata_Classes\\readfiles\\json\\sample2.json",4)
       .foreach{  line =>
         if(line.length() ==0) blanklines +=1
@@ -80,7 +80,7 @@ object Imp_4_Interview {
         if(line.length() ==0) blanklines +=1
       }
     println(s"Blank Lines=$blanklines")
-
+*/
 
 
 

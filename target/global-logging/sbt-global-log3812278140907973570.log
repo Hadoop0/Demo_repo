@@ -1,0 +1,22 @@
+[debug] > Exec({file:/C:/Users/Pradeep/IdeaProjects/SparkviaScala/}sparkviascala/publishLocal, None, None)
+[debug] Evaluating tasks: publishLocal
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] Wrote C:\Users\Pradeep\IdeaProjects\SparkviaScala\target\scala-2.12\sparkviascala_2.12-0.1.pom
+[info] Main Scala API documentation to C:\Users\Pradeep\IdeaProjects\SparkviaScala\target\scala-2.12\api...
+[info] compiling 11 Scala sources to C:\Users\Pradeep\IdeaProjects\SparkviaScala\target\scala-2.12\classes ...
+[info] Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.10. Compiling...
+[info]   Compilation completed in 27.37s.
+[info] done compiling
+[warn] multiple main classes detected: run 'show discoveredMainClasses' to see the list
+[info] Main Scala API documentation successful.
+[info] :: delivering :: default#sparkviascala_2.12;0.1 :: 0.1 :: release :: Sun Jun 26 18:09:14 IST 2022
+[info] 	delivering ivy file to C:\Users\Pradeep\IdeaProjects\SparkviaScala\target\scala-2.12\ivy-0.1.xml
+[info] 	published sparkviascala_2.12 to C:\Users\Pradeep\.ivy2\local\default\sparkviascala_2.12\0.1\poms\sparkviascala_2.12.pom
+[info] 	published sparkviascala_2.12 to C:\Users\Pradeep\.ivy2\local\default\sparkviascala_2.12\0.1\jars\sparkviascala_2.12.jar
+[info] 	published sparkviascala_2.12 to C:\Users\Pradeep\.ivy2\local\default\sparkviascala_2.12\0.1\srcs\sparkviascala_2.12-sources.jar
+[info] 	published sparkviascala_2.12 to C:\Users\Pradeep\.ivy2\local\default\sparkviascala_2.12\0.1\docs\sparkviascala_2.12-javadoc.jar
+[info] 	published ivy to C:\Users\Pradeep\.ivy2\local\default\sparkviascala_2.12\0.1\ivys\ivy.xml
+[success] Total time: 44 s, completed Jun 26, 2022 6:09:15 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

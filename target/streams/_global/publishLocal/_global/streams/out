@@ -1,0 +1,10 @@
+[info] :: delivering :: default#sparkviascala_2.12;0.1 :: 0.1 :: release :: Sun Jun 26 18:09:14 IST 2022
+[debug] 	options = status=release pubdate=Sun Jun 26 18:09:14 IST 2022 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null
+[info] 	delivering ivy file to C:\Users\Pradeep\IdeaProjects\SparkviaScala\target\scala-2.12\ivy-0.1.xml
+[debug] 	deliver done (66ms)
+[debug] local do not support transaction. ivy pattern does not use revision as a directory
+[info] 	published sparkviascala_2.12 to C:\Users\Pradeep\.ivy2\local\default\sparkviascala_2.12\0.1\poms\sparkviascala_2.12.pom
+[info] 	published sparkviascala_2.12 to C:\Users\Pradeep\.ivy2\local\default\sparkviascala_2.12\0.1\jars\sparkviascala_2.12.jar
+[info] 	published sparkviascala_2.12 to C:\Users\Pradeep\.ivy2\local\default\sparkviascala_2.12\0.1\srcs\sparkviascala_2.12-sources.jar
+[info] 	published sparkviascala_2.12 to C:\Users\Pradeep\.ivy2\local\default\sparkviascala_2.12\0.1\docs\sparkviascala_2.12-javadoc.jar
+[info] 	published ivy to C:\Users\Pradeep\.ivy2\local\default\sparkviascala_2.12\0.1\ivys\ivy.xml

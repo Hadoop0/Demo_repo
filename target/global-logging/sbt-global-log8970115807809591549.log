@@ -1,0 +1,7 @@
+[debug] > Exec({file:/C:/Users/Pradeep/IdeaProjects/SparkviaScala/}sparkviascala/productDirectories, None, None)
+[debug] Evaluating tasks: Compile / productDirectories
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 0 s, completed Jun 26, 2022 6:09:15 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

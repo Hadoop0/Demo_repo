@@ -1,0 +1,25 @@
+[debug] Packaging C:\Users\Pradeep\IdeaProjects\SparkviaScala\target\scala-2.12\sparkviascala_2.12-0.1-sources.jar ...
+[debug] Input file mappings:
+[debug] 	com\rddexamples\Filter.scala
+[debug] 	  C:\Users\Pradeep\IdeaProjects\SparkviaScala\src\main\scala\com\rddexamples\Filter.scala
+[debug] 	com\rddexamples\Inherit.scala
+[debug] 	  C:\Users\Pradeep\IdeaProjects\SparkviaScala\src\main\scala\com\rddexamples\Inherit.scala
+[debug] 	com\rddexamples\Interview.scala
+[debug] 	  C:\Users\Pradeep\IdeaProjects\SparkviaScala\src\main\scala\com\rddexamples\Interview.scala
+[debug] 	com\rddexamples\Mapdemo.scala
+[debug] 	  C:\Users\Pradeep\IdeaProjects\SparkviaScala\src\main\scala\com\rddexamples\Mapdemo.scala
+[debug] 	com\rddexamples\Parquetclass.scala
+[debug] 	  C:\Users\Pradeep\IdeaProjects\SparkviaScala\src\main\scala\com\rddexamples\Parquetclass.scala
+[debug] 	com\rddexamples\RDDDemo.scala
+[debug] 	  C:\Users\Pradeep\IdeaProjects\SparkviaScala\src\main\scala\com\rddexamples\RDDDemo.scala
+[debug] 	com\rddexamples\revision.scala
+[debug] 	  C:\Users\Pradeep\IdeaProjects\SparkviaScala\src\main\scala\com\rddexamples\revision.scala
+[debug] 	com\rddexamples\sample.scala
+[debug] 	  C:\Users\Pradeep\IdeaProjects\SparkviaScala\src\main\scala\com\rddexamples\sample.scala
+[debug] 	com\rddexamples\test1.scala
+[debug] 	  C:\Users\Pradeep\IdeaProjects\SparkviaScala\src\main\scala\com\rddexamples\test1.scala
+[debug] 	com\rddexamples\teststubs.scala
+[debug] 	  C:\Users\Pradeep\IdeaProjects\SparkviaScala\src\main\scala\com\rddexamples\teststubs.scala
+[debug] 	com\rddexamples\Turn.scala
+[debug] 	  C:\Users\Pradeep\IdeaProjects\SparkviaScala\src\main\scala\com\rddexamples\Turn.scala
+[debug] Done packaging.

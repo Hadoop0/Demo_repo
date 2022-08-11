@@ -1,0 +1,31 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\Pradeep\IdeaProjects\SparkviaScala\target\scala-2.12\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	Inherit$.class
+[debug] 	revision$.class
+[debug] 	Parquetclass.class
+[debug] 	Kgf.class
+[debug] 	RDDDemo.class
+[debug] 	Inherit.class
+[debug] 	test1$.class
+[debug] 	teststubs$.class
+[debug] 	teststubs.class
+[debug] 	sample.class
+[debug] 	Turn.class
+[debug] 	pets.class
+[debug] 	revision.class
+[debug] 	Interview.class
+[debug] 	wild.class
+[debug] 	rats.class
+[debug] 	Mapdemo$.class
+[debug] 	test1.class
+[debug] 	Turn$.class
+[debug] 	Parquetclass$.class
+[debug] 	RDDDemo$.class
+[debug] 	Interview$.class
+[debug] 	Mapdemo.class
+[debug] 	Filter$.class
+[debug] 	Filter.class
+[debug] 	sample$.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\Pradeep\IdeaProjects\SparkviaScala\target\scala-2.12\classes.bak
